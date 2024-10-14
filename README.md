@@ -1,5 +1,5 @@
 # YAOCoin, The Token For DEX & Marketplace
-<div align="center"><img src="https://yaocoinsy.com/wp-content/uploads/2024/10/tokenyao-img1.fw_.png" /><br />
+<div align="center"><img src="https://yaocoinsy.com/wp-content/uploads/2024/10/Yoyocoin200x200.fw_-1.png" /><br />
 </div>
 <div align="center">
   <h1><br />
@@ -7,8 +7,8 @@
     </a></h1>
 </div>
 YAOCoin We are committed to creating a modern platform and marketplace for YaoCoin payments, as well as a decentralized exchange platform that maximizes efficiency through web3 technology that is flexible, transparent, and secure for all users.
-# Multivendor Marketplace
-YAOCoin marketplace is a store that collects more than 1,000 products. Use PSTCoin as an intermediary for payment 100%. Fast delivery. with real-time product tracking system
+# Marketplace
+YAOCoin marketplace is a store that collects more than 1,000 products. Use YAOCoin as an intermediary for payment 100%. Fast delivery. with real-time product tracking system
 
 # Staking platform
 YAO Web3 Staking, new technology. You rewards are generated daily until the date lock stake Now it’s time to enjoy your life and finally let your money work for you every day.
