@@ -1,4 +1,4 @@
-# YAOCoin, The Token For DEX & Marketplace
+# YAOCoin, The Token For DEX Exchange & Marketplace platform
 <div align="center"><img src="https://yaocoinsy.com/wp-content/uploads/2024/10/Yoyocoin200x200.fw_-1.png" /><br />
 </div>
 <div align="center">
